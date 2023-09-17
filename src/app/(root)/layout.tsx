@@ -11,8 +11,8 @@ import { dark } from "@clerk/themes";
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "Threads",
-  description: "Threads clone with next js 13",
+  title: "Tweethub",
+  description: "Social media platform with next js 13",
 };
 
 export default function RootLayout({
